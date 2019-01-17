@@ -1,2 +1,3 @@
 # sp_experiments
-Sports prediction experiments with different machine learning frameworks
+
+Trying to predict sports outcomes and beat the point spread.
